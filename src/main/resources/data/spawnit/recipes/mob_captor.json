@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "E",
+    "H"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:turtle_egg"
+    },
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "H": {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  },
+  "result": {
+    "item": "spawnit:mob_captor"
+  }
+}
